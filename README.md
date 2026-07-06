@@ -213,11 +213,11 @@ This project helped strengthen practical skills in:
 
 ### 👩‍💻 Harmeet Kaur
 
-💼 Aspiring Data Analyst
+💼 Data Analyst Intern
 
-🔗 **LinkedIn:** *(Add Your LinkedIn Profile Here)*
+🔗 **LinkedIn:** https://www.linkedin.com/in/harmeet-kaur-39597441a
 
-📧 **Email:** *(Add Your Email Here)*
+📧 **Email:** harmeetkaur96683@email.com
 
 🐙 **GitHub:** *(Add Your GitHub Profile Here)*
 
