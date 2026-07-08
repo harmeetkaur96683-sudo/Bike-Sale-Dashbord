@@ -217,9 +217,8 @@ This project helped strengthen practical skills in:
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/harmeet-kaur-39597441a
 
-📧 **Email:** harmeetkaur96683@email.com
+📧 **gmail:** harmeetkaur96683@gmail.com
 
-🐙 **GitHub:** *(Add Your GitHub Profile Here)*
 
 ---
 
